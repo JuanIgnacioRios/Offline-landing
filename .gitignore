@@ -1,0 +1,31 @@
+# See https://nextjs.org/docs/pages/building-your-application/deploying/static-exports#netlify--other-providers
+# for recommended defaults for Next.js apps.
+
+# Dependencies
+node_modules
+
+# Build outputs
+.next
+out
+dist
+build
+
+# Misc artifacts
+*.log
+*.tsbuildinfo
+*.pid
+
+# Env files
+.env.local
+.env.*.local
+
+# Editors
+.DS_Store
+.vscode/
+.idea/
+
+# Testing
+coverage/
+
+# Temporary files
+tmp/
