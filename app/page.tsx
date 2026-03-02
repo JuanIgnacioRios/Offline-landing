@@ -64,7 +64,7 @@ const content = {
     hero: {
       title: "Volvé a estar presente.",
       description:
-        "La Offline Card es una tarjeta NFC que, con solo apoyarla sobre tu teléfono, activa tu modo de desconexión. Bloqueá distracciones, ganá foco y reconectá con lo que realmente importa.",
+        "La Ofline Card es una tarjeta NFC que, con solo apoyarla sobre tu teléfono, activa tu modo de desconexión. Bloqueá distracciones, ganá foco y reconectá con lo que realmente importa.",
       imageAlt: "Persona usando la Offline Card sobre un teléfono",
       logoAlt: "Isologotipo de Offline",
     },
